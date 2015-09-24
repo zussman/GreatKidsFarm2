@@ -12,7 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require gallery/galleria/classic
 //= require twitter/bootstrap
 //= require turbolinks
 //= require_tree .
