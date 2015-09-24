@@ -25,6 +25,8 @@ Rails.application.configure do
   # Tell paperclip where to look for ImageMagick
   Paperclip.options[:command_path] = "/usr/local/bin/identify"
 
+  config.assets.prefix = "/dev-assets"
+
   # Precompile additional assets.
   # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
 
