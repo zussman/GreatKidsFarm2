@@ -80,10 +80,6 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
-    mercury-rails (0.3.1)
-      coffee-script
-      paperclip
-      rails (>= 3.1.0)
     mime-types (2.6.1)
     mimemagic (0.3.0)
     mini_portile (0.6.2)
@@ -190,7 +186,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   less-rails
-  mercury-rails
   paperclip (~> 4.3)
   pg
   rails (= 4.2.1)
