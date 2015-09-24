@@ -1,0 +1,12 @@
+<h1>Gallery</h1>
+</br>
+
+<script>
+  Galleria.run('.galleria')
+</script>
+
+<div class="galleria">
+    <% @galleries.each do |picture| %>
+      <%= image_tag (picture.image.url), title: picture.caption %>
+    <% end %>
+</div>
