@@ -12,8 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require galleria.classic.js
-//= require galleria-1.4.2.js
+//= require gallery/galleria/classic
 //= require twitter/bootstrap
 //= require turbolinks
 //= require_tree .

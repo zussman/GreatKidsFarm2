@@ -12,6 +12,6 @@
  *
  *= require_tree .
  *= styles
- *= galleria.classic
+ *= gallery/galleria/classic
  *= require_self
  */
